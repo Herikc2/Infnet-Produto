@@ -1,4 +1,4 @@
-import streamlit run uber_pickups.py as st
+import streamlit as st
 from PIL import Image
 import requests
 
